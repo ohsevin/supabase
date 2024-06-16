@@ -3165,15 +3165,15 @@ terser-webpack-plugin@^1.4.3:
 
 terser@5.5.1:
   version "5.5.1"
-  resolved "https://registry.npmjs.org/terser/-/terser-5.5.1.tgz"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.5.1.tgz#540caa25139d6f496fdea056e414284886fb2289"
   dependencies:
     commander "^2.20.0"
     source-map "~0.7.2"
     source-map-support "~0.5.19"
 
 terser@^4.1.2:
-  version "4.8.0"
-  resolved "https://registry.npmjs.org/terser/-/terser-4.8.0.tgz"
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-4.8.1.tgz#a00e5634562de2239fd404c649051bf6fc21144f"
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
